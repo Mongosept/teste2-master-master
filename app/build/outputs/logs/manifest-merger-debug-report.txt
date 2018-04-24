@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7921442c3025eba43860b1a0d3e8ec69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3a0740af752425fa48dc08ad621ddb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d457f731e94b56c294421d8136ec0c9e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7cdd09508b5c401828a91010130676cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\743301d14c493ccc73c3114e5e880907\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\485f0314b3375fcd359b28db015713b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e250dbc9f3e27a3be0c40b08c2208178\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9735855b11dad5228c2531d53fdf813d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fee9231fed573669c5988e66d91f5b9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f27566e0849f0157babd2a39da12954\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\50db7ae4f49e97f0ebfb74985f462256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e35dbcb1c27f2afd6b3c8ebac0b3f20e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5026939591d871facafdaf981727bfb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca1048171acc6bb2e64d2ac634b7c23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042e635e0ca031a070bd61a4f74f8352\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c68f40f630f7b65b7efb808adcd1723\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f20d549c05c033038312fc204c0a89eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06abd082ca08e65451ce647fb68ce8a5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d457f731e94b56c294421d8136ec0c9e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d457f731e94b56c294421d8136ec0c9e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.danin.teste.MainActivity
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:18:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:22:9-24:57
+	android:resource
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.example.danin.teste.MainMovieActivity
+ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml:26:19-52
+uses-sdk
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7921442c3025eba43860b1a0d3e8ec69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7921442c3025eba43860b1a0d3e8ec69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3a0740af752425fa48dc08ad621ddb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3a0740af752425fa48dc08ad621ddb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d457f731e94b56c294421d8136ec0c9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d457f731e94b56c294421d8136ec0c9e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7cdd09508b5c401828a91010130676cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7cdd09508b5c401828a91010130676cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\743301d14c493ccc73c3114e5e880907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\743301d14c493ccc73c3114e5e880907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\485f0314b3375fcd359b28db015713b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\485f0314b3375fcd359b28db015713b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e250dbc9f3e27a3be0c40b08c2208178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e250dbc9f3e27a3be0c40b08c2208178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9735855b11dad5228c2531d53fdf813d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9735855b11dad5228c2531d53fdf813d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fee9231fed573669c5988e66d91f5b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fee9231fed573669c5988e66d91f5b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f27566e0849f0157babd2a39da12954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f27566e0849f0157babd2a39da12954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\50db7ae4f49e97f0ebfb74985f462256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\50db7ae4f49e97f0ebfb74985f462256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e35dbcb1c27f2afd6b3c8ebac0b3f20e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e35dbcb1c27f2afd6b3c8ebac0b3f20e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5026939591d871facafdaf981727bfb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5026939591d871facafdaf981727bfb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca1048171acc6bb2e64d2ac634b7c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca1048171acc6bb2e64d2ac634b7c23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042e635e0ca031a070bd61a4f74f8352\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042e635e0ca031a070bd61a4f74f8352\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c68f40f630f7b65b7efb808adcd1723\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c68f40f630f7b65b7efb808adcd1723\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f20d549c05c033038312fc204c0a89eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f20d549c05c033038312fc204c0a89eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06abd082ca08e65451ce647fb68ce8a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\danin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06abd082ca08e65451ce647fb68ce8a5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danin\AndroidStudioProjects\teste2-master-master (2)\teste2-master-master\app\src\main\AndroidManifest.xml
